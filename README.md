@@ -84,15 +84,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar05071992&theme=react-dark" alt="Activity Graph" width="100%"/>
 </p>
 
----
-
-
-
----
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ankit-kumardevops/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumardevops/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumar.261992@gmail.com)
 
 ---
