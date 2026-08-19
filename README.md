@@ -18,21 +18,96 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argocd" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-</p>
+<markdown-accessiblity-table data-catalyst=""><table>
+  <tbody><tr>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/0_Microsoft_Azure">
+        <img src="https://camo.githubusercontent.com/8a2c0f58c8e7bd6b63453e9668f3ebb2cbec975a21aefa0a2e2910434701257b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617a757265" width="48" data-canonical-src="https://skillicons.dev/icons?i=azure" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/1_Terraform">
+        <img src="https://camo.githubusercontent.com/4958ff63eb0d1936f91ab1843e98d06651274289c1e487de4e6f21b4cd08f666/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7465727261666f726d" width="48" data-canonical-src="https://skillicons.dev/icons?i=terraform" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;Terraform&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/Docker-Implementations">
+        <img src="https://camo.githubusercontent.com/3405b634afef4ec9f4725561b719b9f4a744468903c57db8a8052be1aecb7774/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646f636b6572" width="48" data-canonical-src="https://skillicons.dev/icons?i=docker" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/devops/tree/main/3_Kubernetes">
+        <img src="https://camo.githubusercontent.com/a5ccc38cc90ca900202a3a2853a33dc61d027592d89a9d1f97222cc81940c8bd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6b756265726e65746573" width="48" data-canonical-src="https://skillicons.dev/icons?i=kubernetes" style="max-width: 100%;"><br>
+        &nbsp;&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8849a139746ee5851d881984102d2929345b91541276e3ec6fe74343c23d2016/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e"><img src="https://camo.githubusercontent.com/8849a139746ee5851d881984102d2929345b91541276e3ec6fe74343c23d2016/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e" width="48" data-canonical-src="https://skillicons.dev/icons?i=python" style="max-width: 100%;"></a><br>
+         &nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp; 
+      
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/git_mastery_with_ssk">
+        <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" width="48" data-canonical-src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"><br>
+        &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
+        <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="48" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
+        <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="48" data-canonical-src="https://skillicons.dev/icons?i=css" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
+        <img src="https://camo.githubusercontent.com/9b22ad5bbacacd6daebb55f074aab70c451caf161711956a6bb1b70972268f04/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074" width="48" data-canonical-src="https://skillicons.dev/icons?i=javascript" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="48" data-canonical-src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a><br>
+        &nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp; 
+      
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/ReactJS-MiniComponents">
+        <img src="https://camo.githubusercontent.com/26f6cb8597b93a72e469fd1274b0990218fea21eaa495dd88b5d49b0a9d63e1e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374" width="48" data-canonical-src="https://skillicons.dev/icons?i=react" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp; 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SukhbirSinghKhalsa/Web-Development-Projects">
+        <img src="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="48" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"><br>
+         &nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;
+      </a>
+    </td>
+    <td align="center">
+      
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89465c2c49ac408ee5167a1aa1fe7bc8dc9d0c6c7f204bc631d5e6f13733698e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c"><img src="https://camo.githubusercontent.com/89465c2c49ac408ee5167a1aa1fe7bc8dc9d0c6c7f204bc631d5e6f13733698e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" width="48" data-canonical-src="https://skillicons.dev/icons?i=mysql" style="max-width: 100%;"></a><br>
+         &nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp; 
+      
+    </td>
+    <td align="center">
+      
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e"><img src="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e" width="48" data-canonical-src="https://skillicons.dev/icons?i=postman" style="max-width: 100%;"></a><br>
+        &nbsp;&nbsp;&nbsp;Postman&nbsp;&nbsp;&nbsp;
+      
+    </td>
+  </tr>
+</tbody></table></markdown-accessiblity-table>
 
 ---
 
