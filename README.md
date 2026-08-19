@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left" dir="auto">
+[<p align="left" dir="auto">
   <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
   <a href="https://www.terraform.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
   <a href="https://www.docker.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
@@ -32,7 +32,7 @@
   <a href="https://prometheus.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
   <a href="https://www.php.net" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
   <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
-</p>
+</p>](https://argo-cd.readthedocs.io/en/stable/assets/logo.png)
 
 ---
 
