@@ -28,7 +28,7 @@
     </td>
     <td align="center"> 
       <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" alt="AWS">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" alt="AWS">
         <br>AWS
       </a> 
     </td>
